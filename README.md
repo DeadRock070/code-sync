@@ -42,4 +42,5 @@ If you would like to contribute to Code Sync, feel free to fork the repository a
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 
-
+## 📜 License
+Code Sync is released under the [MIT License](License.md)
